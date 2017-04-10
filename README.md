@@ -7,9 +7,9 @@
 先看看部分截图。
 
 
-![](https://github.com/geoffreylau/AirPlane/gameover.png)
-![](https://github.com/geoffreylau/AirPlane/gamesplash.png)
-![](https://github.com/geoffreylau/AirPlane/gaming.png)
+![](https://github.com/geoffreylau/AirPlane/master/gameover.png)
+![](https://github.com/geoffreylau/AirPlane/master/gamesplash.png)
+![](https://github.com/geoffreylau/AirPlane/master/gaming.png)
 
 
 ## 版本库地址
